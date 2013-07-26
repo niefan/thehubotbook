@@ -6,7 +6,7 @@
 >    replicate certain human movements and functions.
 
 Robots. Usually at the centre of epic science fiction adventures whether they
-are the dealy T-100 from The Terminator or the fun and friendly WALL-E. The
+are the deadly T-1000 from The Terminator or the fun and friendly WALL-E. The
 first written accounts of "robots" were from the 3rd century BC in ancient
 China. It wasn't until after the 1950s that computers and robotics became
 rapidly increasing in complexity and numbers. Fast forwarding to the present
