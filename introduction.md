@@ -1,3 +1,5 @@
+# Introduction
+
 The Hubot Book is a book I decided to write because I wanted to experience
 writing a book, but also I wanted to write about a subject I passionate about. I
 became a maintain of GitHub's Hubot because I felt it was a project that I felt
